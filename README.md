@@ -1,5 +1,5 @@
 # Actions
-> A collection of **my** "high-quality" actions for [Atlas](https://atlas.bot)
+> My collection of Actions for [Atlas](https://atlas.bot) discord bot.
 
 ## Interface
 This repository uses the following format for naming each action/snippet I publish here.
