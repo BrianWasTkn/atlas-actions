@@ -14,3 +14,6 @@ or a functional action.
 
 ## Requests
 If you have a request you want me to make or changes you want me to fix, just open an issue and wait a response from me.
+
+## Disclaimer
+This is not affiliated with the official Community Actions Repository.
